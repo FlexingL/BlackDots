@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/FlexingL/Blackdots/main/Bladeball.lua'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "🏌️🏀Blade ball🏌️🏀 ",
